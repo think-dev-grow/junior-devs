@@ -1,0 +1,56 @@
+Seanson Greetings and Goodluck on your assignment. 
+
+1- Using javascript , HTML and CSS create a Sidebar.
+
+2- create a simple calculator that either add , subtract ,divide or multiple.
+Clue : your function 1st and 2nd parameters should take the integers amd the a String of the mathematical operation
+
+3- Present the TGD data below in a more readable format using simple HTML / CSS / javascript any of the Array method of your choice
+b- present a new array for just Frontend Dev
+c- present a new array for just Backend Dev
+c- present a new array for just product Designers
+
+const TDG = [
+  {
+    name: "anita ojeh",
+    nickname: "flo",
+    role: "project manager",
+  },
+  {
+    name: "Lekan ",
+    nickname: "nakel",
+    role: "Frontend Developer",
+  },
+  {
+    name: "Mr Tunde",
+    nickname: "Oga K",
+    role: "Frontend Developer",
+  },
+  {
+    name: "Atuzie rex",
+    nickname: "senior dev",
+    role: "Backend Developer",
+  },
+  {
+    name: "Miss vivian",
+    nickname: "That i seek",
+    role: "Backend Developer",
+  },
+  {
+    name: "Matt",
+    nickname: "Falcon",
+    role: "Product Designers",
+  },
+  {
+    name: "David",
+    nickname: "hulk",
+    role: "Product Designers",
+  },
+];
+
+4- using javascript get the current date and time in the following format
+date = 24-12-2021 
+time = 11:06 / 11:19
+
+clue: use an if statemate to check if the minute is less or equals to 9 then add 0 before it , also make sure the month in state spit back the correct value
+

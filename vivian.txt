@@ -1,0 +1,19 @@
+Hi ViVi, Merry Christmas and remember the greatest Developer are those who keep trying even if it seems difficult.
+and for new Devs practice makes perfect
+
+1- Build the otp template for Ardilla use HTML and CSS only
+
+2- make research on the following areas
+- flex (css)
+- when to use margins and when to use paddings (css)
+- difference in px , rem , em (css)
+- class and id 
+
+3- design a single page application (SPA) Ecommerce store ,your site should consist of
+- Hero section / landing page
+- About
+- List of your product
+- Contact us
+- Footer
+
+4- push the projects to your github account, using the simple commands we learnt
